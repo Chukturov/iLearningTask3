@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GameRPSLS": {
+      "commandName": "Project",
+      "commandLineArgs": "lizard scissors rock spock papper test2 test2"
+    }
+  }
+}

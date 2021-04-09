@@ -1,0 +1,13 @@
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\bin\Debug\netcoreapp3.1\GameRPSLS.exe
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\bin\Debug\netcoreapp3.1\GameRPSLS.deps.json
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\bin\Debug\netcoreapp3.1\GameRPSLS.runtimeconfig.json
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\bin\Debug\netcoreapp3.1\GameRPSLS.runtimeconfig.dev.json
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\bin\Debug\netcoreapp3.1\GameRPSLS.dll
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\bin\Debug\netcoreapp3.1\GameRPSLS.pdb
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\obj\Debug\netcoreapp3.1\GameRPSLS.csprojAssemblyReference.cache
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\obj\Debug\netcoreapp3.1\GameRPSLS.AssemblyInfoInputs.cache
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\obj\Debug\netcoreapp3.1\GameRPSLS.AssemblyInfo.cs
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\obj\Debug\netcoreapp3.1\GameRPSLS.csproj.CoreCompileInputs.cache
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\obj\Debug\netcoreapp3.1\GameRPSLS.dll
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\obj\Debug\netcoreapp3.1\GameRPSLS.pdb
+C:\Users\chukt\source\repos\GameRPSLS\GameRPSLS\obj\Debug\netcoreapp3.1\GameRPSLS.genruntimeconfig.cache
