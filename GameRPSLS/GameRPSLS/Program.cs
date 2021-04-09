@@ -78,7 +78,6 @@ namespace GameRPSLS
             Console.WriteLine("Computer move: " + args[step]);
             Console.WriteLine("You Lose..");
             Console.WriteLine("HMAC key: " + BitConverter.ToString(key));
-            //дописать вывод ключа для проверки
 
         }
         private static RandomNumberGenerator rng = RandomNumberGenerator.Create();
